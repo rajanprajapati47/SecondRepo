@@ -1,3 +1,3 @@
 # SecondRepo
 This is my second repository.
-Author-Rajan kumar
+Author-Rajan kumar prajapati
